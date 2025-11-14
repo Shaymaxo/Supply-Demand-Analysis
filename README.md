@@ -59,6 +59,3 @@ Contributions welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-**Author:** [Your Name]  
-**Date:** November 2025  
-**Contact:** [Your LinkedIn/Email]
